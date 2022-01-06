@@ -48,27 +48,26 @@ h1 {
   margin: 4px 2px;
   cursor: pointer;
 }
-.center{
-    padding-left: 600px;
+.center {
+  padding-left: 600px;
 }
-#different-color{
-    color: rgb(19, 46, 104);
+#different-color {
+  color: rgb(19, 46, 104);
 }
-.picture-resize{
-    width: 10%;
-    height: 40%;
+.picture-resize {
+  width: 10%;
+  height: 40%;
 }
-#bg1{
-    
-    background-color: rgb(141, 228, 228);
+#bg1 {
+  background-color: rgb(141, 228, 228);
 }
-#bg2{
-   background-color: rgb(230, 166, 121);
+#bg2 {
+  background-color: rgb(230, 166, 121);
 }
-#bg3{
-    background-color: rgb(100, 100, 150);
+#bg3 {
+  background-color: rgb(100, 100, 150);
 }
-.card{
+.card {
   width: 20%;
   float: left;
   margin-left: 5%;
@@ -76,43 +75,73 @@ h1 {
   border-radius: 20px;
 }
 
-#coding{
+#coding {
   width: 60%;
   position: relative;
   right: 900px;
   top: 90px;
-  
-  
-  
-  
 }
-.nolimit{
+.nolimit {
   padding-left: 800px;
   padding-top: 100px;
   padding-right: 70px;
 }
-.background-image{
+.background-image {
   background-image: url(images/pictures/dream-bg.png);
   background-repeat: no-repeat;
   background-position: 260px;
-
 }
-.Global-comunity{
-  
+.Global-comunity {
   padding-top: 100px;
   padding-left: 150px;
 }
-#comunity{
+#comunity {
   width: 20%;
   position: relative;
   left: 1130px;
   bottom: 190px;
 }
-.background-image2{
+.background-image2 {
   background-image: url(images/shapes/exp-bg.png);
   background-repeat: no-repeat;
-  background-position: 1500px ;
-
-  
+  background-position: 1500px;
+}
+* {
+  box-sizing: border-box;
 }
 
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+  width: 100%;
+  background-color: #c74816;
+}
+.css {
+  width: 65%;
+  background-color: #79c006;
+}
+.Time-Managment {
+  width: 70%;
+  background-color: #a39ad6;
+}
+.learning{
+  padding-left: 500px;
+  
+  padding-bottom: 200px;
+}
+#victory-picture{
+  width: 120%;
+}
+.blue{
+  color: rgb(27, 228, 77);
+}
