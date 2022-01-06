@@ -145,3 +145,20 @@ h1 {
 .blue{
   color: rgb(27, 228, 77);
 }
+#wcolor{
+  color: white;
+}
+#rcolor{
+  color: red;
+}
+.twocolor{
+  background-color: rgba(0, 0, 0, 0.925);
+  font-family: 'Island Moments', cursive;
+  font-size: 20px;
+}
+.footer{
+  padding-left: 400px;
+}
+#ycolor{
+  color: rgba(240, 248, 255, 0.692);
+}
