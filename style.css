@@ -58,4 +58,21 @@ h1 {
     width: 10%;
     height: 40%;
 }
+#bg1{
+    
+    background-color: rgb(141, 228, 228);
+}
+#bg2{
+   background-color: rgb(230, 166, 121);
+}
+#bg3{
+    background-color: rgb(100, 100, 150);
+}
+.card{
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 5%;
+  border-radius: 20px;
+}
 
