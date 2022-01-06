@@ -97,5 +97,22 @@ h1 {
   background-position: 260px;
 
 }
+.Global-comunity{
+  
+  padding-top: 100px;
+  padding-left: 150px;
+}
+#comunity{
+  width: 20%;
+  position: relative;
+  left: 1130px;
+  bottom: 190px;
+}
+.background-image2{
+  background-image: url(images/shapes/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: 1500px ;
 
+  
+}
 
